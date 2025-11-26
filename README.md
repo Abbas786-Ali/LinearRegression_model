@@ -26,5 +26,5 @@ Here's a breakdown of the steps performed:
 
  Finally, the trained model was used to predict tip amounts for new 'total_bill' values (specifically 50 and 100).
 
- Code Link:  
+ Code Link: Simple LinearRegression model.ipynb 
  
